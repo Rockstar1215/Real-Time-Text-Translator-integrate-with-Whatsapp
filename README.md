@@ -1,0 +1,2 @@
+# Real-Time-Text-Translator-integrate-with-Whatsapp
+"My project focuses on enabling real-time text translation within WhatsApp using WebDriver to access WhatsApp's interface and GTTS (Google Text-to-Speech) for seamless translation. By integrating these technologies, the project aims to enhance communication across language barriers by providing instant translation of text messages within the WhatsApp platform."
